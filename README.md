@@ -7,4 +7,4 @@ We only build apps that are free to download and install, and our main source of
 
 This guided project was introduced as a part of career path in Data Scientist using Python by Dataquest.io
 
-Check out the course: https://www.dataquest.io/path/data-scientist/
+Course Link: https://www.dataquest.io/path/data-scientist/
